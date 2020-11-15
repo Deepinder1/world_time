@@ -1,4 +1,4 @@
-# world_time
+World Time tells time of Different locations
 
 A new Flutter project.
 
